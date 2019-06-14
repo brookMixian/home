@@ -9,7 +9,7 @@
 ## 目录
 ### Vue 篇
 
-1. [vue-clipboard2-实现文本复制](https://github.com/brickspert/blog/issues/1) 2018-05-18
+1. [vue-clipboard2-实现文本复制](https://zhuanlan.zhihu.com/p/68819322) 2018-05-18
 
 ## 建博初衷
 
